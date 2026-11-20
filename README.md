@@ -1,4 +1,4 @@
-# Blocos Simples — página pública
+# Bloco a Bloco: Puzzle
 
 Site de suporte e política de privacidade de Lucas Takeo. Contato: blocossimples.suporte@gmail.com.
 
@@ -18,3 +18,6 @@ Não cadastrar o endereço no AdMob antes de abrir a página sem login e confirm
 A política descreve a versão de teste atual. Antes do lançamento comercial, revisar o texto junto das cópias dentro do jogo e das declarações da loja. Não modificar a data sem revisar o conteúdo. O site não usa analytics, formulários ou scripts de publicidade; hospedagem pelo GitHub Pages está sujeita à política do GitHub.
 
 Não publicar app-ads.txt neste subdiretório como se validasse o domínio: o AdMob procura esse arquivo na raiz do domínio do site de desenvolvedor. Preparar o domínio/raiz apropriados em uma etapa separada.
+
+
+Nome público atualizado em 20/11/2026. Repositórios, URLs, e-mail e identificadores técnicos permanecem os mesmos. A mudança de nome não inclui verificação de disponibilidade de marca.
